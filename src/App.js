@@ -5,7 +5,7 @@ import Header from "../";
 function App() {
   return (
     <div className="App">
-      <h1>My Slack</h1>My Slack
+      <h1>My Slack</h1>
       <Header />
       {/*sidebar*/}
       {/*react-router*/}
